@@ -1,0 +1,319 @@
+1.
+
+Domain Name: amazon.com
+Registry Domain ID: 281209_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-08-26T19:19:56+0000
+Creation Date: 1994-11-01T05:00:00+0000
+Registrar Registration Expiration Date: 2024-10-30T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Hostmaster, Amazon Legal Dept.
+Registrant Organization: Amazon Technologies, Inc.
+Registrant Street: P.O. Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 89507
+Registrant Country: US
+Registrant Phone: +1.2062664064
+Registrant Phone Ext: 
+Registrant Fax: +1.2062667010
+Registrant Fax Ext: 
+Registrant Email: email@amazon.com
+Registry Admin ID: 
+Admin Name: Hostmaster, Amazon Legal Dept.
+Admin Organization: Amazon Technologies, Inc.
+Admin Street: P.O. Box 8102
+Admin City: Reno
+Admin State/Province: NV
+Admin Postal Code: 89507
+Admin Country: US
+Admin Phone: +1.2062664064
+Admin Phone Ext: 
+Admin Fax: +1.2062667010
+Admin Fax Ext: 
+Admin Email: email@amazon.com
+Registry Tech ID: 
+Tech Name: Hostmaster, Amazon Legal Dept.
+Tech Organization: Amazon Technologies, Inc.
+Tech Street: P.O. Box 8102
+Tech City: Reno
+Tech State/Province: NV
+Tech Postal Code: 89507
+Tech Country: US
+Tech Phone: +1.2062664064
+Tech Phone Ext: 
+Tech Fax: +1.2062667010
+Tech Fax Ext: 
+Tech Email: email@amazon.com
+Name Server: pdns6.ultradns.co.uk
+Name Server: pdns1.ultradns.net
+Name Server: ns4.p31.dynect.net
+Name Server: ns3.p31.dynect.net
+Name Server: ns2.p31.dynect.net
+Name Server: ns1.p31.dynect.net
+DNSSEC: unsigned
+
+2.
+
+Domain Name: walmart.com
+Registry Domain ID: 269816_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2022-08-10T14:23:58Z
+Creation Date: 1995-02-23T00:00:00Z
+Registrar Registration Expiration Date: 2023-09-23T19:29:40Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Not Disclosed
+Registrant Organization: Not Disclosed
+Registrant Street: Not Disclosed
+Registrant City: Bentonville
+Registrant State/Province: AR
+Registrant Postal Code: 72716-0520
+Registrant Country: US
+Registrant Phone: +Not Disclosed
+Registrant Phone Ext: 
+Registrant Fax: +Not Disclosed
+Registrant Fax Ext: 
+Registrant Email: Not Disclosed
+Registry Admin ID: 
+Admin Name: Not Disclosed
+Admin Organization: Not Disclosed
+Admin Street: Not Disclosed
+Admin City: Bentonville
+Admin State/Province: AR
+Admin Postal Code: 72716-0520
+Admin Country: US
+Admin Phone: +Not Disclosed
+Admin Phone Ext: 
+Admin Fax: +Not Disclosed
+Admin Fax Ext: 
+Admin Email: Not Disclosed
+Registry Tech ID: 
+Tech Name: Not Disclosed
+Tech Organization: Not Disclosed
+Tech Street: Not Disclosed
+Tech City: Bentonville
+Tech State/Province: AR
+Tech Postal Code: 72716-0560
+Tech Country: US
+Tech Phone: +Not Disclosed
+Tech Phone Ext: 
+Tech Fax: +Not Disclosed
+Tech Fax Ext: 
+Tech Email: Not Disclosed
+Name Server: pdnswm2.ultradns.net
+Name Server: a10-66.akam.net
+Name Server: pdnswm4.ultradns.org
+Name Server: a8-66.akam.net
+Name Server: a22-67.akam.net
+Name Server: pdnswm6.ultradns.co.uk
+Name Server: a3-64.akam.net
+Name Server: a5-65.akam.net
+Name Server: pdnswm1.ultradns.net
+Name Server: pdnswm3.ultradns.org
+Name Server: a1-185.akam.net
+Name Server: pdnswm5.ultradns.info
+DNSSEC: unsigned
+
+3.
+
+Domain Name: apple.com
+Registry Domain ID: 1225976_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2023-02-16T01:14:38Z
+Creation Date: 1987-02-19T00:00:00Z
+Registrar Registration Expiration Date: 2024-02-20T05:00:00Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Apple Inc.
+Registrant Street: One Apple Park Way
+Registrant City: Cupertino
+Registrant State/Province: CA
+Registrant Postal Code: 95014
+Registrant Country: US
+Registrant Phone: +1.4089961010
+Registrant Phone Ext: 
+Registrant Fax: +1.4089741560
+Registrant Fax Ext: 
+Registrant Email: email@apple.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Apple Inc.
+Admin Street: One Apple Park Way
+Admin City: Cupertino
+Admin State/Province: CA
+Admin Postal Code: 95014
+Admin Country: US
+Admin Phone: +1.4089961010
+Admin Phone Ext: 
+Admin Fax: +1.4089741560
+Admin Fax Ext: 
+Admin Email: email@apple.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Apple Inc.
+Tech Street: One Apple Park Way
+Tech City: Cupertino
+Tech State/Province: CA
+Tech Postal Code: 95014
+Tech Country: US
+Tech Phone: +1.4089961010
+Tech Phone Ext: 
+Tech Fax: +1.4089741560
+Tech Fax Ext: 
+Tech Email: email@apple.com
+Name Server: a.ns.apple.com
+Name Server: b.ns.apple.com
+Name Server: c.ns.apple.com
+Name Server: d.ns.apple.com
+DNSSEC: unsigned
+
+4.
+
+Domain Name: sony.com
+Registry Domain ID: 1134445_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2022-07-02T01:14:06Z
+Creation Date: 1989-07-07T00:00:00Z
+Registrar Registration Expiration Date: 2024-07-06T04:00:00Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Sony Corporation of America
+Registrant Street: 25 Madison Avenue
+Registrant City: New York
+Registrant State/Province: NY
+Registrant Postal Code: 10010
+Registrant Country: US
+Registrant Phone: +1.2128336800
+Registrant Phone Ext: 
+Registrant Fax: +1.2128336800
+Registrant Fax Ext: 
+Registrant Email: email@sony.com
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Sony Corporation of America
+Admin Street: 25 Madison Avenue
+Admin City: New York
+Admin State/Province: NY
+Admin Postal Code: 10010
+Admin Country: US
+Admin Phone: +1.2128336800
+Admin Phone Ext: 
+Admin Fax: +1.2128336800
+Admin Fax Ext: 
+Admin Email: email@sony.com
+Registry Tech ID: 
+Tech Name: DNS Administrator
+Tech Organization: CSC Corporate Domains, Inc.
+Tech Street: 251 Little Falls Drive
+Tech City: Wilmington
+Tech State/Province: DE
+Tech Postal Code: 19808
+Tech Country: US
+Tech Phone: +1.3026365400
+Tech Phone Ext: 
+Tech Fax: +1.3026365454
+Tech Fax Ext: 
+Tech Email: email@cscglobal.com
+Name Server: pdns1.cscdns.net
+Name Server: pdns2.cscdns.net
+DNSSEC: unsigned
+
+5.
+
+Domain Name: PLAYSTATION.COM
+Registry Domain ID: 114426_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.1api.net
+Registrar URL: http://www.1api.net
+Updated Date: 2021-01-22T01:28:45Z
+Creation Date: 1997-01-14T05:00:00Z
+Registrar Registration Expiration Date: 2024-01-13T05:00:00Z
+Registrar: 1API GmbH
+Registrar IANA ID: 1387
+Registrar Abuse Contact Email: email@1api.net
+Registrar Abuse Contact Phone: +49.68949396x850
+Reseller: Brights Consulting Inc. http://brightsconsulting.com
+Domain Status: clientTransferProhibited - http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Sony Interactive Entertainment Inc.
+Registrant Street: 1-7-1 Konan
+Registrant City: Minato-ku
+Registrant State/Province: Tokyo
+Registrant Postal Code: 108-0075
+Registrant Country: JP
+Registrant Phone: +81.5038070508
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: email@brights.jp
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Sony Interactive Entertainment Inc.
+Admin Street: 1-7-1 Konan
+Admin City: Minato-ku
+Admin State/Province: Tokyo
+Admin Postal Code: 108-0075
+Admin Country: JP
+Admin Phone: +81.5038070508
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: email@psn.playstation.org
+Registry Tech ID: 
+Tech Name: Domain Master
+Tech Organization: GMO Brights Consulting Inc.
+Tech Street: Cerulean Tower, 26-1 Sakuragaoka-cho
+Tech City: Shibuya-ku
+Tech State/Province: Tokyo
+Tech Postal Code: 150-8512
+Tech Country: JP
+Tech Phone: +81.357841069
+Tech Phone Ext: 
+Tech Fax: +81.334625040
+Tech Fax Ext: 
+Tech Email: email@brights.jp
+Name Server: ns-43.awsdns-05.com
+Name Server: ns-957.awsdns-55.net
+Name Server: ns-1039.awsdns-01.org
+Name Server: ns-1962.awsdns-53.co.uk
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System:
+http://wdprs.internic.net/

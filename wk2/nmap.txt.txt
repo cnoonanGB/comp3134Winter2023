@@ -1,0 +1,51 @@
+1.
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-04-16 01:23 UTC
+Nmap scan report for www.amazon.ca (18.67.37.229)
+Host is up (0.0017s latency).
+Other addresses for www.amazon.ca (not scanned): 2606:2cc0:2::743 2606:2cc0:1::743 2606:2cc0:3::743 2606:2cc0::743
+rDNS record for 18.67.37.229: server-18-67-37-229.yto50.r.cloudfront.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.60 seconds
+
+2.
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-04-16 01:24 UTC
+Nmap scan report for www.playstation.ca (3.64.163.50)
+Host is up (0.11s latency).
+rDNS record for 3.64.163.50: ec2-3-64-163-50.eu-central-1.compute.amazonaws.com
+
+PORT     STATE    SERVICE
+8000/tcp filtered http-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 1.32 seconds
+
+3.
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 4000 8000 www.walmart.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-04-16 01:26 UTC
+Nmap scan report for www.walmart.ca (23.9.101.30)
+Host is up (0.012s latency).
+rDNS record for 23.9.101.30: a23-9-101-30.deploy.static.akamaitechnologies.com
+
+PORT     STATE    SERVICE
+4000/tcp filtered remoteanything
+
+Nmap done: 2 IP addresses (1 host up) scanned in 1.76 seconds
+
+4.
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F www.microsoft.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-04-16 01:28 UTC
+Nmap scan report for www.microsoft.ca (20.103.85.33)
+Host is up (0.093s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 3.34 seconds

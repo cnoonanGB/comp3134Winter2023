@@ -1,0 +1,10 @@
+lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping www.amazon.ca
+PING djz1tax43w9ei.cloudfront.net (18.67.37.229) 56(84) bytes of data.
+64 bytes from server-18-67-37-229.yto50.r.cloudfront.net (18.67.37.229): icmp_seq=1 ttl=250 time=2.13 ms
+64 bytes from server-18-67-37-229.yto50.r.cloudfront.net (18.67.37.229): icmp_seq=2 ttl=250 time=0.734 ms
+64 bytes from server-18-67-37-229.yto50.r.cloudfront.net (18.67.37.229): icmp_seq=3 ttl=250 time=0.689 ms
+64 bytes from server-18-67-37-229.yto50.r.cloudfront.net (18.67.37.229): icmp_seq=4 ttl=250 time=0.694 ms
+64 bytes from server-18-67-37-229.yto50.r.cloudfront.net (18.67.37.229): icmp_seq=5 ttl=250 time=0.733 ms
+64 bytes from server-18-67-37-229.yto50.r.cloudfront.net (18.67.37.229): icmp_seq=6 ttl=250 time=1.49 ms
+64 bytes from server-18-67-37-229.yto50.r.cloudfront.net (18.67.37.229): icmp_seq=7 ttl=250 time=0.548 ms
+
